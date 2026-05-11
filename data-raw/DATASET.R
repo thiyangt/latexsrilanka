@@ -1,4 +1,6 @@
-## code to prepare `DATASET` dataset goes here
+library(here)
+usethis::create_package(here())
+1## code to prepare `DATASET` dataset goes here
 library(forecast)
 library(tidyverse)
 library(here)
@@ -41,5 +43,5 @@ data$Month <- factor(data$Month, levels = c("Jan",
 data$Year <- as.factor(data$Year)
 data$Estate <- as.factor(data$Estate)
 srilankalatex <- data
-
+srilankalatex <- srilankalatex[, 1:15]
 usethis::use_data(srilankalatex, overwrite = TRUE)

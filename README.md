@@ -27,12 +27,12 @@ head(srilankalatex)
 #> 5 2013   May  Wet  PW     HE       Ha 392.9091 51.95833          80499
 #> 6 2013   Jun  Wet  PW     HE       Ha 461.0000 35.08333          80499
 #>   Immature_trees Uprooted_trees Fertilizer_applied_trees
-#> 1          28277              0                   6775.6
-#> 2          28277              0                      0.0
-#> 3          28277              0                      0.0
-#> 4          28277              0                      0.0
-#> 5          28277              0                      0.0
-#> 6          28277              0                      0.0
+#> 1          28277              0                     6776
+#> 2          28277              0                        0
+#> 3          28277              0                        0
+#> 4          28277              0                        0
+#> 5          28277              0                        0
+#> 6          28277              0                        0
 #>   Stimulant_applied_trees Pests_and_diseases_infected_trees Labour_turnover
 #> 1                       0                                 0             357
 #> 2                       0                                 0             357

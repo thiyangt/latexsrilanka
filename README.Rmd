@@ -26,6 +26,7 @@ pak::pak("thiyangt/latexsrilanka")
 
 ## Usage
 
+To load data
 
 
 ```{r}

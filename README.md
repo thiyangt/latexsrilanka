@@ -13,7 +13,9 @@ You can install the development version of latexsrilanka from
 pak::pak("thiyangt/latexsrilanka")
 ```
 
-## Load data
+## Usage
+
+To load data
 
 ``` r
 library(latexsrilanka)
